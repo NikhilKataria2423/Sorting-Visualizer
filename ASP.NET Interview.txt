@@ -1,0 +1,7 @@
+Asp.net+c#
+-RDMS(MY SQL,ORACLE)
+-SQL LANGUAGE
+-linq
+-Entity Framework
+-Solid Design Priciples
+-Storage  
